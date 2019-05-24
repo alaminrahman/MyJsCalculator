@@ -1,0 +1,99 @@
+/* Code By Saleh Ibne Omar */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(116, 125, 140, 0.7);
+}
+
+.saleh {
+    /* main contain majhe anar jonne ai class 2nd div e ai class ase */
+    margin: 0 auto;
+}
+
+.calcontainer {
+	margin-left: 0;
+	margin-top: 30px;
+	width: 316px;
+	background: #05a869;
+	box-shadow: 0px 5px 8px 13.8px gray;
+}
+
+#panel {
+    /* calculator er display er jonne ai id kora hoie */
+    text-align: right;
+    width: 274px;
+    height: 80px;
+    font-size: 26px;
+    background-color: white;
+}
+
+#panel:hover {
+    /* calculator er display er jonne ai id kora hoie */
+    cursor: col-resize;
+}
+
+.bttn {
+    /* button gulo ke style korar jonne ai class */
+    margin-bottom: 8px;
+    margin-left: 5px;
+    width: 59px;
+    height: 45px;
+    font-size: 22px;
+}
+.btn-danger {
+	color: #fff;
+	background-color: #756262;
+	border: 2px solid #efea15;
+}
+.btn-danger:hover {
+	color: #fff;
+	background-color: #957b7b;
+	border: 2px solid #efea15;
+}
+.btn-info {
+	color: #fff;
+	background-color: #da0b0b;
+	border: 2px solid #46dab8;
+}
+
+.btn-info:hover {
+	color: #fff;
+	background-color: #f52222;
+	border: 2px solid #46dab8;
+}
+
+
+.btn-success {
+	color: #fff;
+	background-color: #a6a712;
+	border: 2px solid wheat;
+}
+.btn-success:hover{
+    background-color: #b4b515;
+    border: 2px solid wheat;
+}
+.bttne {
+    /* last er 2 ta button  ke style korar jonne ai class */
+    width: 120px;
+    margin-top: 10px;
+    margin-right: 11px;
+}
+
+.sticker_sec{
+    margin: 10%;
+}
+.sticker{}
+.sticker i {
+	font-size: 150px;
+	color: #ff9500;
+	text-align: center;
+	margin-left: 92px;
+}
+.sticker h1 {
+	color: white;
+	font-weight: 700;
+	font-size: 50px;
+	text-align: center;
+	color: #dff708;
+}
